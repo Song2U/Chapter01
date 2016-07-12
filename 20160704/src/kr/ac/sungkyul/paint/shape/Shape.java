@@ -1,4 +1,4 @@
-package paint;
+package kr.ac.sungkyul.paint.shape;
 
 public abstract class Shape { // 자바 현실세계(메모리 상)에 존재하지 않게 함 - 인스턴스화 시키면 안되기 때문에 (new로 생성 불가)
 	//추상 클래스가 정의 된 경우 : 인스턴스가 존재하지 않고, 자식 메소드 들에게 다 맡겨야 할 경우

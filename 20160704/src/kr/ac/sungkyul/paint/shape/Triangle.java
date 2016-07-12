@@ -1,4 +1,6 @@
-package paint;
+package kr.ac.sungkyul.paint.shape;
+
+import i.Drawable;
 
 public class Triangle extends Shape implements Drawable {
 	@Override
